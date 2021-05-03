@@ -1,0 +1,2 @@
+#set FILENAME="task5.txt"; pylint <name_of_directory> > %FILENAME% 2>&1 | type %FILENAME%
+#pylint task1.py > task6.txt 2>&1 >  task6.txt ## run this in cmd to get result of pylint to be stored in textfile
