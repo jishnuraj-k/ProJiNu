@@ -8,6 +8,7 @@ file and I saved these as csv files. Then I wrote a python code (Task 2) for dow
 saved befored by making Absolute time or Real time as index columns and I saved these files as detailDownsampled.csv, 
 DetailTempDownsampled.csv and DetailVolDownsampled.csv. The I created a jupyter notebook (Task 3) for applying low pass
 filter for noise reduction and I visualised it using a plot functiom. Then I used profiling (Cprofile) (Task 4) for running
-the functions that I created in this program. In the task 5 (unittest) I made every function to return a Boolean value and
-I tested whether its returning true value using assert value function. Then in the task6 I checked whether the code that I
-wrote follow PEP-8 using pylint and I stored the results to text file (unittestresult.txt). 
+the functions that I created in this program and the results are stored into a text file(cprofile2.txt). In the task 5 
+(unittest) I made every function to return a Boolean value and I tested whether its returning true value using assert value
+function. Then in the task6 I checked whether the code that I wrote follow PEP-8 using pylint and I stored the results to text
+file (unittestresult.txt). 
